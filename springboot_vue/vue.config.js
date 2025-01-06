@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: './',
+    publicPath: './springboot_vue/',
     // 其他配置
   };
