@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: '/',
+    publicPath: './',
     // 其他配置
   };
